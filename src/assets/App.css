@@ -1,0 +1,12 @@
+.full-screen-height {
+  min-height: 100vh;
+}
+body {
+  background-color: #ffffff !important; 
+}
+.custom-navbar {
+  background-color: #020477 !important;
+}
+.text-color {
+  color: rgb(255, 255, 255) !important;
+}
